@@ -1,0 +1,20 @@
+[INFO ] 2021-12-15 13:35:23 LoginController: Loading Login Controller...
+[INFO ] 2021-12-15 13:35:23 LoginController: Cached 10 KeyPairs for RSA communication.
+[INFO ] 2021-12-15 13:35:23 LoginController: Stored 20 keys for Blowfish communication.
+[INFO ] 2021-12-15 13:35:23 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2021-12-15 13:35:24 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2021-12-15 13:35:24 GameServerTable: GameServerTable: Loaded 1 registered Game Servers.
+[INFO ] 2021-12-15 13:35:24 GameServerTable: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[INFO ] 2021-12-15 13:35:24 LoginServer: Loaded 0 banned IPs.
+[INFO ] 2021-12-15 13:35:24 LoginServer: Listening for game servers on 127.0.0.1:9014.
+[INFO ] 2021-12-15 13:35:24 LoginServer: Telnet server is currently disabled.
+[INFO ] 2021-12-15 13:35:24 LoginServer: Login Server is now listening on *:2106.
+[INFO ] 2021-12-15 13:35:24 UPnPService: Looking for UPnP Gateway Devices...
+[INFO ] 2021-12-15 13:35:33 UPnPService: No UPnP gateways has been found.
+[INFO ] 2021-12-15 13:36:05 GameServerThread: Updated game server Bartz[1] IP's.
+[INFO ] 2021-12-15 13:36:05 GameServerThread: 192.168.100.98/192.168.100.0/24
+[INFO ] 2021-12-15 13:36:05 GameServerThread: 127.0.0.1/127.0.0.0/8
+[INFO ] 2021-12-15 13:36:05 GameServerThread: 170.51.201.236/0.0.0.0/0
+[INFO ] 2021-12-15 13:36:05 GameServerAuth: Game Server Interlude enabled.
+[WARN ] 2021-12-15 13:36:12 GameServerThread: Login terminated the connection!
+[INFO ] 2021-12-15 13:36:12 GameServerThread: Server Bartz[1] is now disconnected.

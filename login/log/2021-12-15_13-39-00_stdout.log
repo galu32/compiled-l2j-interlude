@@ -1,0 +1,12 @@
+[INFO ] 2021-12-15 13:38:43 LoginController: Loading Login Controller...
+[INFO ] 2021-12-15 13:38:43 LoginController: Cached 10 KeyPairs for RSA communication.
+[INFO ] 2021-12-15 13:38:43 LoginController: Stored 20 keys for Blowfish communication.
+[INFO ] 2021-12-15 13:38:43 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2021-12-15 13:38:43 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2021-12-15 13:38:43 GameServerTable: GameServerTable: Loaded 1 registered Game Servers.
+[INFO ] 2021-12-15 13:38:43 GameServerTable: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[INFO ] 2021-12-15 13:38:43 LoginServer: Loaded 0 banned IPs.
+[INFO ] 2021-12-15 13:38:43 LoginServer: Listening for game servers on 127.0.0.1:9014.
+[INFO ] 2021-12-15 13:38:43 LoginServer: Telnet server is currently disabled.
+[INFO ] 2021-12-15 13:38:43 LoginServer: Login Server is now listening on *:2106.
+[INFO ] 2021-12-15 13:38:43 UPnPService: Looking for UPnP Gateway Devices...

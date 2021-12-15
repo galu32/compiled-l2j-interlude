@@ -1,0 +1,193 @@
+updates parser results. Last run: Tue Dec 14 23:11:13 -03 2021
+050912-[1033].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1061 (42000) at line 1: Duplicate key name 'key_item_id'
+051016-[1334].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'custom_type1'
+051103-[1438].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 2: Duplicate column name 'clan_privs'
+051104-[1447].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 2: Duplicate column name 'wantspeace'
+051112-[1505].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+051112-[1506].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+051129-[1670].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 2: Duplicate column name 'crest_id'
+051205-[1768].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 2: Duplicate column name 'class_index'
+051205-[1769].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+051208-[1876].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+060215-[c4_1489].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'crest_large_id'
+060215-[c4req_update].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'type'
+11012007_3477.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'paid'
+20060305-[1575].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 2: Duplicate column name 'onlinetime'
+20060314-[1581].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+20060412.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 21: Duplicate column name 'heading'
+20060424.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 2: Duplicate column name 'friend_id'
+20060424b.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+20060527-[2012].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 4: Duplicate column name 'in_jail'
+20060712-[2209].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'periodOfDay'
+20060712-[dp1888].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+20060712-[dp1896].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+20060720-[2229].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+20060920-[dp2090].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'power_grade'
+20060925-[dp2103].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+20061010-[dp2162].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+20061015-[dp2197].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'nobless'
+20070501.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update05052006.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update05092006.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update05152006.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'class_index'
+update06072007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'owner_exp_taken'
+update06082007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update06122007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'mana_left'
+update09122007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'death_penalty_level'
+update10152006.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'nobless'
+update12092007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update17092007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update17112007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'buff_index'
+update20060522.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update20060607.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'isin7sdungeon'
+update20060614.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'absorb_level'
+update20061118.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'reputation_score'
+update20061124.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'last_recom_date'
+update20061126.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'reuse_delay'
+update20061204.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'fornoble'
+update20061206.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'lvl_joined_academy'
+update20061207.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update20061208.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update20061223.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update20061230.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 3: Duplicate column name 'auction_bid_at'
+update20070101.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'varka_ketra_ally'
+update20070210.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'dropable'
+update20070216.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1091 (42000) at line 1: Can't DROP 'objId'; check that column/key exists
+update20070221.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update20070223.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1091 (42000) at line 1: Can't DROP 'respawn_delay'; check that column/key exists
+update20070303.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'ally_penalty_expiry_time'
+update20070503-[dp2978].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'count'
+update20070503-[dp2980].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'item_skill_id'
+update20070511.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1060 (42S21) at line 1: Duplicate column name 'expBeforeDeath'
+update20070601.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 1: Table 'l2jgs.accounts' doesn't exist
+update20070929-[dp3399].sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update20071203.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+no errors
+update25052007.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1091 (42000) at line 1: Can't DROP 'inDebt'; check that column/key exists

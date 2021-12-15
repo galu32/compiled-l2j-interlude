@@ -1,0 +1,11 @@
+#Configuration settings for L2J-Datapack database installer script
+MYSQLDUMPPATH=/usr/local/bin/mysqldump
+MYSQLPATH=/usr/local/bin/mysql
+LSDBHOST=127.0.0.1
+LSDB=l2jls
+LSUSER=root
+LSPASS=
+GSDBHOST=127.0.0.1
+GSDB=l2jgs
+GSUSER=root
+GSPASS=
